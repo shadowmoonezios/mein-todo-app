@@ -1,7 +1,7 @@
 {
   "name": "mein-todo-app",
   "version": "1.0.0",
-  "description": "Eine einfache Todo-App.",
+  "description": "A simple Todo app.",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
